@@ -1,0 +1,17 @@
+backend/stock_tracker/*
+
+!backend/stock_tracker/src/
+
+backend/stock_tracker/src/*
+
+!backend/stock_tracker/src/main/
+
+backend/stock_tracker/src/main/*
+
+!backend/stock_tracker/src/main/java/
+
+frontend/stock-tracker-ui/*
+
+!frontend/stock-tracker-ui/src/
+
+
